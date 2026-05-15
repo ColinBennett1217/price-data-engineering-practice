@@ -16,8 +16,8 @@
 - [x] Add `save_clean_csv()` function
 - [x] Add `build_all_eia_csvs()` function
 - [x] Verify notebook path handling from `notebooks/`
-- [ ] Add optional column-name cleanup helper
-- [ ] Add blank/duplicate column-name handling
+- [x] Add optional column-name cleanup helper
+- [x] Add blank/duplicate column-name handling
 - [ ] Test script from terminal
 
 ## Table 1.1
@@ -27,10 +27,10 @@
 - [x] Verify bottom header row
 - [x] Run `flatten_header()`
 - [x] Confirm 17 flattened columns
-- [ ] Inspect malformed/blank column names
-- [ ] Test `build_clean_table()`
-- [ ] Inspect output in notebook
-- [ ] Export CSV
+- [x] Inspect malformed/blank column names
+- [x] Test `build_clean_table()`
+- [x] Inspect output in notebook
+- [x] Export CSV
 
 ## Table 7.1
 - [ ] Confirm file path
